@@ -1,5 +1,3 @@
-README.md
-
 School Management System (Console-Based)
 
 Overview
