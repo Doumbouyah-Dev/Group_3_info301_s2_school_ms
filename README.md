@@ -673,8 +673,7 @@ No external libraries required
 ---
 
 Clone or Download
-
-git clone https://github.com/your-repository/school-management-system.git
+git clone https://github.com/Doumbouyah-Dev/Group_3_info301_s2_school_ms.git
 cd school-management-system
 
 Or simply download:
